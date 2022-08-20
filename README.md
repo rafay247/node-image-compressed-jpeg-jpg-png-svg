@@ -14,7 +14,7 @@ Able to compressed image (jpg,jpeg,png,svg)
 
 ## Usage 
 
-Download or clone the project then install required dependencies
+Download or clone the project then install required dependencies and set app.js to app.mjs other wise you have to install previous version of dependencies
 
 ```bash
 npm install 
